@@ -1,3 +1,4 @@
+
 {
 	"name": "n8n",
 	"dockerComposeFile": "docker-compose.yml",
